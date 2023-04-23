@@ -3,3 +3,6 @@ venv
 geckodriver.log
 test_main.http
 .idea
+geckodriver.log
+__pycache__
+.pytest_cache

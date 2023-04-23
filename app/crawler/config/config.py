@@ -1,6 +1,6 @@
 import random
 
-with open('proxy.txt', 'r') as file:
+with open('../data/proxy.txt', 'r') as file:
     contents = file.read()
 
 ip = contents.split('\n')
